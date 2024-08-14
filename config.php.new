@@ -1,0 +1,20 @@
+<?php
+
+class Config
+{
+    // Username/password y remitente de Altiria
+    const USERNAME = 'xxx';
+    const PASSWORD = 'xxx';
+    const SENDERID = 'xxx';
+
+    // Username/password y centro para usar el webservice de consultas a ticares
+    consT WS_USER = 'xxx';
+    const WS_PASS = 'xxx';
+    const CENTRO_ID = 'xx';
+
+    // Url's para consumir los webservices de ticares
+    const URL_VISTAS = 'https://...';
+    const URL_A_ENVIAR = 'https://...';
+
+}
+?>
